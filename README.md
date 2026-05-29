@@ -1,32 +1,179 @@
-# 💫 About Me:
-💫 About Me:<br><br>Hi there 👋<br><br>Nice meeting you, I'm Mohammed Shoaib Arfaat Nayyer!<br><br>🎓 I’m currently a 4th-year B.E. Computer Science & Engineering student (VTU)<br>🔭 I’m focused on Software Development, Data Science & AI projects<br>💬 Ask me about Python, Web Development, Problem Solving, and Projects<br>📫 How to reach me: LinkedIn | GitHub | Email<br>😄 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably building projects or learning new tech<br><br>🌐 Socials:<br>🔗 LinkedIn | GitHub | instagram 
+# Hi there 👋, I'm Mohammed Shoaib Arfaat Nayyer
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1A6uoTf6tN/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arfaat__007?igsh=cnF6bGZ2aGN1eml1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-shoaib-arfaat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arfatmaster8@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas]
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arfaat007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arfaat007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **B.E. Computer Science & Engineering Graduate** from **VTU**  
+💻 Interested in **Software Development, Data Science, AI/ML, and Generative AI**  
+🚀 Building real-world projects using **Python, SQL, Machine Learning, GenAI, RAG, FastAPI, Streamlit, and Cloud Deployment**  
+📊 Currently improving my skills in **Data Analytics, AI/ML Engineering, DSA, and Full-Stack Development**  
+🎯 Goal: To become a strong **AI/ML Engineer / GenAI Engineer / Software Developer**  
+💬 Ask me about **Python, SQL, Machine Learning, Web Development, GitHub, and Projects**  
+⚡ Fun fact: If I’m not coding, I’m probably learning a new tool or building a project  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arfaat007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**arfaat007/arfaat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Shoaib%20Arfaat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-shoaib-arfaat)
+[![GitHub](https://img.shields.io/badge/GitHub-arfaat007-black?style=for-the-badge&logo=github)](https://github.com/arfaat007)
+[![Instagram](https://img.shields.io/badge/Instagram-arfaat__007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfaat__007)
+[![Email](https://img.shields.io/badge/Email-arfatmaster8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfatmaster8@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### AI / Machine Learning / GenAI
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=for-the-badge)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools, Cloud & Deployment
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔹 GitHub Dev Cards Generator
+A web application that generates developer profile cards from GitHub usernames.  
+**Tech Stack:** Python, FastAPI, HTML, CSS, JavaScript, GitHub API, GCP Cloud Run  
+
+### 🔹 AI Customer Churn Prediction System
+An AI-powered churn analytics platform that predicts customer churn and provides business insights.  
+**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Plotly, Streamlit, GenAI  
+
+### 🔹 AI Resume Screener
+A resume screening system that uses NLP and AI to analyze resumes and support candidate shortlisting.  
+**Tech Stack:** Python, NLP, Flask, Machine Learning, Hugging Face  
+
+### 🔹 RetailPulse Analytics
+A data analytics project focused on cleaning, analyzing, and visualizing retail/business data.  
+**Tech Stack:** Python, Pandas, NumPy, SQL, Matplotlib, Power BI  
+
+### 🔹 CSV to Excel Converter
+A Python automation tool that converts CSV files into formatted Excel files.  
+**Tech Stack:** Python, Pandas, OpenPyXL  
+
+### 🔹 Gym Management System
+A command-line based management system for handling gym member records.  
+**Tech Stack:** Python, SQLite, CLI  
+
+### 🔹 Weather App
+A simple weather application using a weather API to fetch live weather information.  
+**Tech Stack:** HTML, CSS, JavaScript, REST API  
+
+---
+
+## 🎓 Education
+
+**B.E. in Computer Science & Engineering**  
+Visvesvaraya Technological University — VTU  
+2022 – 2026  
+
+---
+
+## 🧑‍💻 Training & Internship Experience
+
+- **AIML with Generative AI Industrial Training** — TechZone Academy  
+- **AI Intern** — Edutainer  
+- **SDE Intern** — Bluestock Fintech  
+- **Python Developer Intern** — Codec Technologies  
+- **Python Programming Intern** — Syntecxhub  
+- **React Skill Enhancement Course** — VTU  
+- **VTU 8th Semester Internship Program**  
+
+---
+
+## 📜 Certifications & Learning
+
+- Certified Artificial Intelligence and Machine Learning with Generative AI  
+- NPTEL Python for Data Science  
+- NPTEL Data Science for Engineers  
+- Generative AI Literacy  
+- Deloitte Data Analytics Job Simulation  
+- Prompt Engineering / 1 Million Prompters  
+- SQL Course  
+- Python for Beginners  
+- AI Tools & GenAI Workshops  
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms  
+- Advanced Python Programming  
+- Machine Learning Model Deployment  
+- AI Agents  
+- RAG Applications  
+- AWS and GCP Deployment  
+- Resume-ready End-to-End Projects  
+
+---
+
+## 📊 GitHub Stats
+
+![Arfaat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaat007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arfaat007&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arfaat007&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📈 Profile Visitors
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=arfaat007&icon=0&color=0)
+
+---
+
+## ✨ Quote
+
+> “Consistency beats talent when talent does not stay consistent.”
+
+---
