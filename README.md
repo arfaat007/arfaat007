@@ -94,14 +94,6 @@ A data analytics project focused on cleaning, analyzing, and visualizing retail/
 A Python automation tool that converts CSV files into formatted Excel files.  
 **Tech Stack:** Python, Pandas, OpenPyXL  
 
-### 🔹 Gym Management System
-A command-line based management system for handling gym member records.  
-**Tech Stack:** Python, SQLite, CLI  
-
-### 🔹 Weather App
-A simple weather application using a weather API to fetch live weather information.  
-**Tech Stack:** HTML, CSS, JavaScript, REST API  
-
 ---
 
 ## 🎓 Education
@@ -152,9 +144,9 @@ Visvesvaraya Technological University — VTU
 
 ## 📊 GitHub Stats
 
-![Arfaat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaat007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Arfaat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaat007&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arfaat007&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=arfaat007&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact)
 
@@ -168,7 +160,7 @@ Visvesvaraya Technological University — VTU
 
 ## 📈 Profile Visitors
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=arfaat007&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=arfaat007&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
