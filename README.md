@@ -144,27 +144,33 @@ Visvesvaraya Technological University — VTU
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=arfaat007&show_icons=true&theme=dark&hide_border=false" alt="Arfaat's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arfaat007&show_icons=true&theme=dark&hide_border=false" alt="Arfaat's GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arfaat007&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=arfaat007&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=arfaat007&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arfaat007&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=arfaat007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arfaat007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -173,3 +179,4 @@ Visvesvaraya Technological University — VTU
 > “Consistency beats talent when talent does not stay consistent.”
 
 ---
+
