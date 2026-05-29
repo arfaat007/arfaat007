@@ -118,7 +118,7 @@ Visvesvaraya Technological University — VTU
 
 ## 📜 Certifications & Learning
 
-- Certified Artificial Intelligence and Machine Learning with Generative AI  
+- Certified Artificial Intelligence and Machine     Learning with Generative AI  
 - NPTEL Python for Data Science  
 - NPTEL Data Science for Engineers  
 - Generative AI Literacy  
@@ -144,23 +144,27 @@ Visvesvaraya Technological University — VTU
 
 ## 📊 GitHub Stats
 
-![Arfaat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaat007&show_icons=true&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=arfaat007&show_icons=true&theme=dark&hide_border=false" alt="Arfaat's GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arfaat007&theme=dark&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact)
+<img src="https://streak-stats.demolab.com?user=arfaat007&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaat007&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arfaat007&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=arfaat007&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 ---
 
 ## 📈 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=arfaat007&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=arfaat007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
