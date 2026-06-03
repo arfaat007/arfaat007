@@ -108,6 +108,7 @@ A SQL-based e-commerce analytics project using the Olist dataset to analyze reve
 A Flask-based API monitoring project that tracks response time, status codes, failures, and API performance trends using SQLite.  
 **Tech Stack:** Python, Flask, Requests, SQLite, API Monitoring  
 🔗 [Repository](https://github.com/arfaat007/codec_API_performance_monitor)
+
 ---
 
 ## 🎓 Education
