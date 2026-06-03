@@ -72,28 +72,42 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 GitHub Dev Cards Generator
-A web application that generates developer profile cards from GitHub usernames.  
-**Tech Stack:** Python, FastAPI, HTML, CSS, JavaScript, GitHub API, GCP Cloud Run  
+### 🧠 AI Customer Churn Prediction Platform
+An AI-powered churn prediction dashboard that predicts customer churn probability, classifies customer risk level, and provides business retention recommendations.  
+**Tech Stack:** Python, Streamlit, Scikit-learn, XGBoost, Plotly, Pandas  
+🔗 [Repository](https://github.com/arfaat007/churn_predict)  
+🔗 [Live Demo](https://aichurnpredict.streamlit.app/)
 
-### 🔹 AI Customer Churn Prediction System
-An AI-powered churn analytics platform that predicts customer churn and provides business insights.  
-**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Plotly, Streamlit, GenAI  
+---
 
-### 🔹 AI Resume Screener
-A resume screening system that uses NLP and AI to analyze resumes and support candidate shortlisting.  
-**Tech Stack:** Python, NLP, Flask, Machine Learning, Hugging Face  
+### 💳 GitHub Dev Card Generator
+A cloud-deployed web application that generates developer profile cards from GitHub usernames using GitHub profile data.  
+**Tech Stack:** Python, FastAPI, HTML, CSS, JavaScript, Docker, GitHub API, Google Cloud Run  
+🔗 [Repository](https://github.com/arfaat007/Github_dev_card_generator)  
+🔗 [Live Demo](https://github-card-generator-153768643879.europe-west1.run.app)
 
-### 🔹 RetailPulse Analytics
-A data analytics project focused on cleaning, analyzing, and visualizing retail/business data.  
-**Tech Stack:** Python, Pandas, NumPy, SQL, Matplotlib, Power BI  
+---
 
-### 🔹 CSV to Excel Converter
-A Python automation tool that converts CSV files into formatted Excel files.  
-**Tech Stack:** Python, Pandas, OpenPyXL  
+### 📊 RetailPulse Analytics
+An end-to-end retail analytics project focused on sales, profit, customers, products, discounts, and business performance insights using SQL, Python, and Power BI.  
+**Tech Stack:** Python, Pandas, NumPy, MySQL, Power BI, Matplotlib, Seaborn  
+🔗 [Repository](https://github.com/arfaat007/Retailpulse_Analytics)
 
+---
+
+### 🛒 E-Commerce Sales Analysis
+A SQL-based e-commerce analytics project using the Olist dataset to analyze revenue, orders, customers, monthly trends, repeat customers, and business KPIs.  
+**Tech Stack:** MySQL, SQL Joins, Aggregations, Window Functions, Business Analysis  
+🔗 [Repository](https://github.com/arfaat007/E-Commerece_Sales_Analysis)
+
+---
+
+### ⚙️ API Performance Monitor
+A Flask-based API monitoring project that tracks response time, status codes, failures, and API performance trends using SQLite.  
+**Tech Stack:** Python, Flask, Requests, SQLite, API Monitoring  
+🔗 [Repository](https://github.com/arfaat007/codec_API_performance_monitor)
 ---
 
 ## 🎓 Education
